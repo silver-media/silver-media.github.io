@@ -73,3 +73,7 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+ img { 
+                max-width:100%; 
+                        height:auto; 
+            } 
