@@ -608,3 +608,4 @@ pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 algorix.co, 60216, RESELLER, 5b394c12fea27a1d
 indexexchange.com, 184738, RESELLER
 appnexus.com, 11450, RESELLER
+adcolony.com, 1447ef4b516a89fa0af223d736b68756, DIRECT, 1ad675c9de6b5176
